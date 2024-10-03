@@ -2,4 +2,4 @@
 
 **The code will be available soon.**
 
-Paper: https://arxiv.org/abs/2409.06085
+Paper: https://arxiv.org/abs/2410.01065
